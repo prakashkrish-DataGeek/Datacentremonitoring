@@ -33,7 +33,7 @@ st.set_page_config(
     page_title="Asset Exposure Watch | Operations Control",
     page_icon="🛡️",
     layout="wide",
-    initial_sidebar_state="collapsed",
+    initial_sidebar_state="expanded",
 )
 
 
