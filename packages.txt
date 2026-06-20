@@ -1,2 +1,0 @@
-# System packages for Streamlit Cloud
-# (usually not needed, but included for completeness)
