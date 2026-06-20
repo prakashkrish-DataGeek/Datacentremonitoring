@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "mag": 5.2,
+    "place": "5 km NE of Ridgecrest, CA",
+    "time": 1718000000000,
+    "updated": 1718000100000,
+    "tz": null,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/replay-test",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/replay-test.geojson",
+    "felt": 45,
+    "cdi": 4.2,
+    "mmi": 5.1,
+    "alert": "green",
+    "status": "reviewed",
+    "tsunami": 0,
+    "sig": 450,
+    "net": "ci",
+    "code": "replay-test-52",
+    "ids": ",ci-replay-test-52,",
+    "sources": ",ci,",
+    "types": ",origin,phase-data,dyfi,shakemap,",
+    "nst": 89,
+    "dmin": 0.05,
+    "rms": 0.25,
+    "gap": 45,
+    "magType": "ml",
+    "type": "earthquake",
+    "title": "M 5.2 - 5 km NE of Ridgecrest, CA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.55,
+      35.65,
+      8.5
+    ]
+  },
+  "id": "ci-replay-test-52"
+}

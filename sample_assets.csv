@@ -1,0 +1,26 @@
+asset_id,name,latitude,longitude,type,criticality,sector
+LAX-01,Los Angeles Distribution Center,34.0522,-118.2437,warehouse,5,logistics
+SFO-02,San Francisco Bay Facility,37.7749,-122.4194,facility,4,technology
+PHX-03,Phoenix Supply Hub,33.4484,-112.0740,supply-node,3,logistics
+SEA-04,Seattle Port Terminal,47.6062,-122.3321,facility,5,logistics
+PDX-05,Portland Manufacturing,45.5152,-122.6784,facility,4,manufacturing
+LAS-06,Las Vegas Data Center,36.1699,-115.1398,facility,5,technology
+SAN-07,San Diego Naval Yard,32.7157,-117.1611,facility,5,defense
+SJC-08,San Jose Chip Foundry,37.3382,-121.8863,facility,5,technology
+OAK-09,Oakland Container Yard,37.8044,-122.2712,warehouse,4,logistics
+FAT-10,Fresno Agricultural Hub,36.7378,-119.7871,supply-node,3,agriculture
+BAK-11,Bakersfield Oil Terminal,35.3733,-119.0187,facility,4,energy
+RNO-12,Reno Logistics Park,39.5296,-119.8138,warehouse,3,logistics
+BOI-13,Boise Semiconductor,43.6150,-116.2023,facility,4,technology
+SLC-14,Salt Lake City Refinery,40.7608,-111.8910,facility,5,energy
+DEN-15,Denver Rocky Mountain Hub,39.7392,-104.9903,warehouse,4,logistics
+ABQ-16,Albuquerque Solar Farm,35.0844,-106.6504,facility,3,energy
+TUC-17,Tucson Copper Mine,32.2226,-110.9747,facility,4,mining
+ELP-18,El Paso Border Crossing,31.7619,-106.4850,supply-node,5,logistics
+PHL-19,Philadelphia Chemical Plant,39.9526,-75.1652,facility,5,chemicals
+NYC-20,New York Financial Center,40.7128,-74.0060,market-position,5,finance
+MIA-21,Miami Cruise Terminal,25.7617,-80.1918,facility,4,tourism
+HOU-22,Houston Petrochemical,29.7604,-95.3698,facility,5,energy
+CHI-23,Chicago Commodities Exchange,41.8781,-87.6298,market-position,5,finance
+ATL-24,Atlanta Distribution Hub,33.7490,-84.3880,warehouse,4,logistics
+DFW-25,Dallas Fort Worth Airport,32.7767,-96.7970,facility,4,aviation
